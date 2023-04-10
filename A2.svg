@@ -4,11 +4,6 @@
 <svg
    version="1.1"
    id="svg8"
-   inkscape:export-filename="marrekrite.svg"
-   inkscape:export-xdpi="99.027519"
-   inkscape:export-ydpi="99.027519"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="A2.svg"
    x="0px"
    y="0px"
    width="125px"
@@ -16,29 +11,9 @@
    viewBox="0 0 125 125"
    style="enable-background:new 0 0 125 125;"
    xml:space="preserve"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs1558" /><sodipodi:namedview
-   id="namedview1556"
-   pagecolor="#ffffff"
-   bordercolor="#000000"
-   borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   showgrid="false"
-   inkscape:zoom="6.376"
-   inkscape:cx="62.5"
-   inkscape:cy="62.5"
-   inkscape:window-width="1920"
-   inkscape:window-height="1013"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Laag_x0020_1" />
+   id="defs1558" />
 <style
    type="text/css"
    id="style1545">
@@ -69,7 +44,6 @@
 		</g>
 		<path
    id="path9"
-   inkscape:connector-curvature="0"
    class="st2"
    d="m 1349.3,984.1 c 92.1,0 108.3,-23.7 157.9,-43.5 29.4,10.9 56.7,24.7 82,40.6 -47.6,26.7 -108.3,91 -239.9,91 -131.6,0 -192.3,-64.3 -239.9,-91 25.3,-15.8 52.6,-29.7 82,-40.6 49.6,19.7 65.8,43.5 157.9,43.5 z m 0,329.4 c 200.4,0 254.1,-126.6 379.6,-190 -13.2,-20.8 -26.3,-39.6 -42.5,-57.4 -87.1,55.4 -162,156.3 -337.1,156.3 -175.1,0 -250,-100.8 -337.1,-156.2 -16.2,17.8 -29.4,36.6 -41.5,56.4 124.5,64.3 178.2,190.9 378.6,190.9 z m -432.2,-63.3 c 163,39.6 178.2,207.8 432.3,207.8 254.1,0 269.3,-168.2 432.3,-207.8 7.1,28.7 11.1,58.4 12.1,89 -135.7,35.7 -235.9,217.7 -444.5,222.7 -208.5,-4.9 -308.8,-187 -444.4,-223.6 1,-29.7 5.1,-59.4 12.2,-88.1 z m 432.2,552.1 c 200.4,0 370.5,-133.6 426.2,-315.6 -227.7,99.9 -190.3,214.7 -426.2,214.7 -235.9,0 -198.4,-114.8 -426.2,-214.7 55.7,182 225.8,315.6 426.2,315.6 z m 0,-1076.5 c 348.2,0 630.7,282 630.7,631.2 0,348.3 -282.4,630.3 -630.7,630.3 -348.3,0 -630.7,-282 -630.7,-630.3 0,-349.2 282.5,-631.2 630.7,-631.2 z"
    style="fill:#2a7fff" />
@@ -77,13 +51,12 @@
 </g>
 <text
    xml:space="preserve"
-   style="font-weight:bold;font-size:60.995px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#f9f9f9;stroke-width:0.953048"
-   x="36.566418"
-   y="82.091644"
+   style="font-weight:bold;font-size:60.995px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.953048"
+   x="35.941963"
+   y="82.249214"
    id="text1668"
-   transform="scale(1.0046379,0.99538353)"><tspan
-     sodipodi:role="line"
+   transform="scale(1.0046379,0.99538352)"><tspan
      id="tspan1666"
-     x="36.566418"
-     y="82.091644"
-     style="stroke-width:0.953048">M</tspan></text></svg>
+     x="35.941963"
+     y="82.249214"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.953048">M</tspan></text></svg>
